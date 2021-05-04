@@ -1,0 +1,23 @@
+
+.navbar{
+	position: absolute;
+}
+
+
+
+.homeimage{
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+@media only screen and (max-width: 980px) {
+  .col-3{
+    width: 50%;
+  }
+}
+
